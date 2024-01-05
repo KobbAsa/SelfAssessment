@@ -1,86 +1,86 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object: 🖐️ used
-  - this: 🖐️ used
-  - arrow function: 🖐️ used
-  - async function: 🖐️ used
-  - call: 👂 heard
-  - bind: 👂 heard
-  - apply: 👂 heard
+  - Object: 🙋 used
+  - this: 🙋 used
+  - arrow function: 🙋 used
+  - async function: 🙋 used
+  - call: 🖐️ used
+  - bind: 🖐️ used
+  - apply: 🖐️ used
   - instanceof: 🖐️ used
-  - ...spread: 👂 heard
-  - ...rest: 👂 heard
-  - typeof: 🖐️ used
+  - ...spread: 🖐️ used
+  - ...rest: 🖐️ used
+  - typeof: 🙋 used
   - destructuring: 🖐️ used
   - generator: 🖐️ used
   - iterator: 🖐️ used
-  - async generator: 👂 heard
-  - async iterator: 👂 heard
-  - chaining: 🖐️ used
+  - async generator: 🖐️ used
+  - async iterator: 🖐️ used
+  - chaining: 🙋 used
   - optional chaining: 👂 heard
   - IIFE
   - global: 🖐️ used
   - globalThis: 🖐️ used
   - window: 🖐️ used
   - getters and setters: 🖐️ used
-  - __proto__: 👂 heard
+  - __proto__: 🖐️ used
   - prototype: 🖐️ used
   - equality operators: 🖐️ used
   - logical operators: 🖐️ used
   - bitwise operators: 👂 heard
   - ternary operator: 🖐️ used
   - void: 👂 heard
-  - yield
-  - await: 🖐️ used
-  - template literal
+  - field: 🖐️ used
+  - await: 🙋 used
+  - template literal: 👂 heard
   - strict mode: 🖐️ used
-  - delete: 👂 heard
-  - in: 👂 heard
-  - super: 👂 heard
-  - Symbol: 👂 heard
+  - delete: 🖐️ used
+  - in: 🖐️ used
+  - super: 🖐️ used
+  - Symbol: 🖐️ used
   - Reflect: 👂 heard
 - Statements
-  - if: 🖐️ used
-  - while: 🖐️ used
-  - do..while: 🖐️ used
-  - for: 🖐️ used
-  - for..in: 🖐️ used
-  - for..of: 🖐️ used
-  - for await: 👂 heard
-  - throw: 🖐️ used
-  - break: 🖐️ used
+  - if: 🙋 used
+  - while: 🙋 used
+  - do..while: 🙋 used
+  - for: 🙋 used
+  - for..in: 🙋 used
+  - for..of: 🙋 used
+  - for await: 🖐️ used
+  - throw: 🙋 used
+  - break: 🙋 used
   - continue: 🖐️ used
-  - import: 🖐️ used
-  - export: 🖐️ used
-  - label: 👂 heard
-  - try..catch: 🖐️ used
+  - import: 🙋 used
+  - export: 🙋 used
+  - label: 🖐️ used
+  - try..catch: 🙋 used
   - switch: 🖐️ used
-  - class: 🖐️ used
+  - class: 🙋 used
   - new Error: 🖐️ used
   - with: 👂 heard
 - Functions
-  - function declaration: 🖐️ used
-  - function expression: 🖐️ used
-  - return: 🖐️ used
-  - default parameters: 🖐️ used
-  - functional object: 🖐️ used
+  - function declaration: 🙋 used
+  - function expression: 🙋 used
+  - return: 🙋 used
+  - default parameters: 🙋 used
+  - functional object: 🙋 used
 - Data structures
-  - Array: 🖐️ used
+  - Array: 🙋 used
   - mixin: 👂 heard
   - extend: 👂 heard
   - typed arrays: 🖐️ used
-  - Map: 🎓 known
-  - Set: 🎓 known
-  - undefined: 🎓 known
-  - null: 🎓 known
+  - Map: 🙋 used
+  - Set: 🙋 used
+  - undefined: 🙋 used
+  - null: 🖐️ used
   - Proxy: 👂 heard
-  - weak collections: 👂 heard
+  - weak collections: 🖐️ used
   - timers: 🖐️ used
-  - EventEmitter: 👂 heard
-  - RegExp: 👂 heard
+  - EventEmitter: 🖐️ used
+  - RegExp: 🖐️ used
   - Date: 🖐️ used
-  - BigInt: 👂 heard
+  - BigInt: 🖐️ used
 - Infrastructure
   - V8
   - Node.js: 🖐️ used

@@ -5,62 +5,62 @@
   - Imperative programming: 👂 heard
   - Structured programming: 🖐️ used
   - Non-structured programming: 👂 heard
-  - Functional programming: 🖐️ used
-  - Prototype-based programming: 👂 heard
-  - Object-oriented programming: 👂 heard
-  - Object-based programming: 👂 heard
+  - Functional programming: 🙋 used
+  - Prototype-based programming: 🖐️ used
+  - Object-oriented programming: 🙋 used
+  - Object-based programming: 🙋 used
   - Generic programming: 👂 heard
-  - Concurrent computing: 👂 heard
-  - Asyncronous programming: 👂 heard
+  - Concurrent computing
+  - Asyncronous programming: 🖐️ used
   - Parallel programming: 👂 heard
-  - Reactive programming: 👂 heard
+  - Reactive programming: 🖐️ used
   - FRP (Functional-reactive)
   - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
+  - Domain-specific languages: 👂 heard
+  - Multi-paradigm programming: 👂 heard
   - Metaprogramming: 👂 heard
   - Actor model
 - OOP basics
-  - constructor: 🖐️ used
-  - new: 🖐️ used
+  - constructor: 🙋 used
+  - new: 🙋 used
   - Static method: 🖐️ used
-  - Method: 🖐️ used
-  - Async method: 🖐️ used
+  - Method: 🙋 used
+  - Async method: 🎓 known
   - Getters, Setters: 🖐️ used
-  - Public fields: 🖐️ used
-  - Private fields: 🖐️ used
-  - Field declarations: 🖐️ used
-  - Inheritance
+  - Public fields: 📢 talked
+  - Private fields: 📢 talked
+  - Field declarations: 📢 talked
+  - Inheritance: 👂 heard
   - Parent class: 🖐️ used
-  - Polymorphism: 👂 heard
-  - Abstract class: 👂 heard
-  - Interface: 👂 heard
-  - Encapsulation: 👂 heard
-  - Hidden class: 👂 heard
-  - Object form: 👂 heard
-  - instance: 👂 heard
-  - Introspection: 👂 heard
-  - Reflection: 👂 heard
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 📢 talked
+  - Encapsulation: 🖐️ used
+  - Hidden class: 🖐️ used
+  - Object form: 🖐️ used
+  - instance: 🖐️ used
+  - Introspection
+  - Reflection
 - Patterns
-  - Singleton: 👂 heard
-  - Factory Method
-  - Abstract Factory: 👂 heard
-  - Adapter
-  - Observer
-  - Strategy
+  - Singleton: 🖐️ used
+  - Factory Method: 🙋 used
+  - Abstract Factory: 🙋 used
+  - Adapter: 🖐️ used
+  - Observer: 👂 heard
+  - Strategy: 🙋 used
   - Facade
   - Proxy: 👂 heard
-  - Chain of Responsibility: 👂 heard
-  - Command: 👂 heard 
-  - Iterator: 👂 heard
-  - State: 👂 heard
-  - Bridge
-  - Builder: 👂 heard
-  - Prototype: 👂 heard
-  - Composite: 👂 heard
-  - Decorator: 👂 heard
+  - Chain of Responsibility
+  - Command: 🖐️ used
+  - Iterator: 🖐️ used
+  - State: 🖐️ used
+  - Bridge: 👂 heard
+  - Builder: 🖐️ used
+  - Prototype: 🖐️ used
+  - Composite: 🖐️ used
+  - Decorator: 🖐️ used
   - Flyweight
-  - Mediator
-  - Memento
+  - Mediator: 👂 heard
+  - Memento: 👂 heard
   - Template Method
-  - Visitor
+  - Visitor: 👂 heard

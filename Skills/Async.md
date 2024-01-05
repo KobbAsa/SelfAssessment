@@ -1,19 +1,19 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 👂 heard
+  - Event loop: 🖐️ used
   - try..catch: 🖐️ used
-  - Non-blocking: 👂 heard
-  - Async I/O: 👂 heard
+  - Non-blocking: 🖐️ used
+  - Async I/O: 🖐️ used
   - Thread pool
   - Pattern Reactor: 👂 heard
   - CAS operations
   - epoll
   - kqueue
   - Completion ports
-  - Event ports
+  - Event ports: 👂 heard
   - libuv
-  - Race conditions
+  - Race conditions: 👂 heard
   - Dead locks
   - Live locks
   - Concurrent programming
@@ -23,20 +23,20 @@
   - Process: 👂 heard
 - Async contracts
   - Callbacks: 🖐️ used
-  - Callback-last-error-first: 👂 heard
-  - Thenable
-  - Promise
-  - Async/await:🖐️ used
+  - Callback-last-error-first: 🖐️ used
+  - Thenable: 🖐️ used
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future: 👂 heard
   - Deferred
   - Sync generator: 👂 heard
   - Async Generator: 👂 heard
   - Async Iterator: 👂 heard
-  - Event: 👂 heard
+  - Event: 🖐️ used
   - Coroutine
   - Goroutine
-  - Signal
-  - Stream
+  - Signal: 👂 heard
+  - Stream: 👂 heard
   - Chain of responsibility: 👂 heard
   - Middleware: 👂 heard
   - Locks
@@ -47,11 +47,11 @@
   - callbacks compose: 👂 heard
   - async compose: 👂 heard
 - Async abstractions interfaces
-  - EventEmitter: 👂 heard
+  - EventEmitter: 🖐️ used
   - Observable/Observer
-  - Readable: 👂 heard
-  - Writable: 👂 heard
-  - Transform
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
+  - Transform: 👂 heard
   - Async Pool: 👂 heard
   - Async Queue: 👂 heard
   - Async Collector: 👂 heard
@@ -59,35 +59,35 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers: 👂 heard
+  - Timers: 🖐️ used
   - setImmediate: 👂 heard
   - nextTick
   - AbortController: 👂 heard
   - AbortSignal: 👂 heard
   - Promise unhandled rejection
   - Promise double resolve
-  - child_process
+  - child_process: 👂 heard
   - worker_threads
   - Atomics
   - High resolution clock
-  - Callback hell
+  - Callback hell: 👂 heard
   - Promise hell: 👂 heard
   - ref() and unref()
-  - Error handling in async code
+  - Error handling in async code: 🖐️ used
   - Better stack traces with return await
   - JSON: streaming serialization: 👂 heard
   - promisify
   - callbackify
-  - AsyncLocalStorage
-  - AsyncResource
+  - AsyncLocalStorage: 🖐️ used
+  - AsyncResource: 👂 heard
 - Techniques
-  - async.js library
+  - async.js library: 👂 heard
   - RxJS library
   - Async composition: 👂 heard
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
-  - Promise.any
+  - Promise.all: 👂 heard
+  - Promise.allSettled: 👂 heard
+  - Promise.race: 👂 heard
+  - Promise.any: 👂 heard
   - Web Locks API
   - IPC
   - Channel API
